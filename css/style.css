@@ -1,9 +1,3 @@
-* {
-    margin: 0 auto;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 .container-banner {
     background: rgb(0, 157, 255) url("../img/pattern.png");
     background-size: contain;
@@ -22,6 +16,11 @@
 
 main>h1 {
     font-size: 28px;
+}
+
+section {
+    margin-bottom: 14px;
+    font-size: 11px;
 }
 
 .writing-text {
@@ -49,4 +48,8 @@ main>h1 {
 .writing-text-photo {
     font-size: 8px;
     color: black;
+}
+
+.yellow {
+    background-color: yellow;
 }

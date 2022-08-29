@@ -9,6 +9,7 @@
     background-size: contain;
     height: 80px;
     position: relative;
+    margin-bottom: 12px;
 }
 
 #logo-banner {
@@ -23,14 +24,29 @@ main>h1 {
     font-size: 28px;
 }
 
+.writing-text {
+    font-size: 10px;
+    color: grey;
+}
+
 .lightblue {
     color: rgb(0, 157, 255);
 }
 
-.writing-text {
-    font-size: 10px;
-}
-
 .data-text {
     font-size: 8px;
+    margin-bottom: 12px;
+}
+
+.images-tim {
+    margin-top: 15px;
+}
+
+.image-tim {
+    height: 200px;
+}
+
+.writing-text-photo {
+    font-size: 8px;
+    color: black;
 }

@@ -1,3 +1,5 @@
+/* banner/header */
+
 .container-banner {
     background: rgb(0, 157, 255) url("../img/pattern.png");
     background-size: contain;
@@ -14,12 +16,14 @@
     padding: 10px 0px;
 }
 
+/* impostazione pagina centrale */
 main,
 footer {
     width: 50%;
     margin: 0 auto;
 }
 
+/* font, colore, margine */
 main>h1 {
     font-size: 28px;
 }
@@ -43,6 +47,7 @@ section {
     margin-bottom: 12px;
 }
 
+/* immagini di Tim */
 .images-tim {
     margin-top: 15px;
 }
@@ -56,10 +61,12 @@ section {
     color: black;
 }
 
+/* evidenzatore */
 .yellow {
     background-color: yellow;
 }
 
+/* lista puntata e tabella */
 ul {
     padding: 0 15px;
 }
@@ -92,6 +99,7 @@ td {
     text-align: left;
 }
 
+/* centraggio del footer, font, colore */
 footer {
     text-align: center;
 }
@@ -107,6 +115,7 @@ footer {
     font-weight: bold;
 }
 
+/* sovrapposizione immagine + scritta */
 .link {
     position: relative;
     width: 100px;

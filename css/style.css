@@ -1,3 +1,5 @@
+/* banner/header */
+
 .container-banner {
     background: rgb(0, 157, 255) url("../img/pattern.png");
     background-size: contain;
@@ -14,6 +16,7 @@
     padding: 10px 0px;
 }
 
+/* font, colore, margine */
 main>h1 {
     font-size: 28px;
 }
@@ -37,6 +40,7 @@ section {
     margin-bottom: 12px;
 }
 
+/* immagini di Tim */
 .images-tim {
     margin-top: 15px;
 }
@@ -50,10 +54,12 @@ section {
     color: black;
 }
 
+/* evidenzatore */
 .yellow {
     background-color: yellow;
 }
 
+/* lista puntata e tabella */
 table {
     width: 100%;
     border-collapse: collapse;
@@ -82,6 +88,7 @@ td {
     text-align: left;
 }
 
+/* footer con immagini , frase , font , colore */
 .text-footer {
     font-size: 18px;
     color: grey;

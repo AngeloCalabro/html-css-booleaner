@@ -90,6 +90,7 @@ td {
 .text-footer {
     font-size: 12px;
     margin-bottom: 12px;
+    font-weight: bold;
 }
 
 .link {

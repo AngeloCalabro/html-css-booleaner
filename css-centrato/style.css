@@ -1,0 +1,139 @@
+.container-banner {
+    background: rgb(0, 157, 255) url("../img/pattern.png");
+    background-size: contain;
+    height: 80px;
+    position: relative;
+    margin-bottom: 12px;
+}
+
+#logo-banner {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 150px;
+    padding: 10px 0px;
+}
+
+main,
+footer {
+    background-color: ;
+    width: 50%;
+    margin: 0 auto;
+}
+
+main>h1 {
+    font-size: 28px;
+}
+
+section {
+    margin-bottom: 14px;
+    font-size: 11px;
+}
+
+.writing-text {
+    font-size: 10px;
+    color: grey;
+}
+
+.lightblue-text {
+    color: rgb(0, 157, 255);
+}
+
+.data-text {
+    font-size: 8px;
+    margin-bottom: 12px;
+}
+
+.images-tim {
+    margin-top: 15px;
+}
+
+.image-tim {
+    height: 200px;
+}
+
+.writing-text-photo {
+    font-size: 8px;
+    color: black;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#th-primo {
+    width: 25%;
+}
+
+#th-secondo {
+    width: 25%;
+}
+
+th {
+    background-color: rgb(0, 170, 255);
+    color: white;
+
+}
+
+.lightblue-background {
+    background-color: rgb(219, 238, 246);
+}
+
+th,
+td {
+    text-align: left;
+}
+
+footer {
+    text-align: center;
+}
+
+.text-footer {
+    font-size: 18px;
+    color: grey;
+}
+
+.text-footer {
+    font-size: 12px;
+    margin-bottom: 12px;
+    font-weight: bold;
+}
+
+.link {
+    position: relative;
+    width: 100px;
+    height: auto;
+}
+
+.monitor {
+    background: url("../img/monitor.jpg");
+    background-size: contain;
+    width: 150px;
+    position: relative;
+    margin-bottom: 12px;
+
+}
+
+.graph {
+    background: url("../img/graph.jpg");
+    background-size: contain;
+    width: 150px;
+    position: relative;
+    margin-bottom: 12px;
+}
+
+.text-span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 150px;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+}

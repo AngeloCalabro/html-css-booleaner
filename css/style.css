@@ -28,7 +28,7 @@ section {
     color: grey;
 }
 
-.lightblue {
+.lightblue-text {
     color: rgb(0, 157, 255);
 }
 
@@ -52,4 +52,19 @@ section {
 
 .yellow {
     background-color: yellow;
+}
+
+th {
+    background-color: rgb(0, 170, 255);
+    color: white;
+
+}
+
+.lightblue-background {
+    background-color: rgb(219, 238, 246);
+}
+
+th,
+td {
+    text-align: left;
 }

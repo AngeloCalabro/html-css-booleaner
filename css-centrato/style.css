@@ -1,24 +1,18 @@
 /* banner/header */
-
-.container-banner {
+header {
     background: rgb(0, 157, 255) url("../img/pattern.png");
     background-size: contain;
     height: 80px;
-    position: relative;
-    margin-bottom: 12px;
 }
 
 #logo-banner {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 150px;
-    padding: 10px 0px;
+    max-height: 40px;
+    padding: 40px 0;
+    ;
 }
 
 /* impostazione pagina centrale */
-main,
-footer {
+.container {
     width: 50%;
     margin: 0 auto;
 }
